@@ -44,7 +44,7 @@
             </activity>
         </config-file>
 
-        <source-file src="src/android/com/education/AVSLogin.java" target-dir="src/com/education"/>
+        <source-file src="src/android/com/avs/AVSLogin.java" target-dir="src/com/avs"/>
     </platform>
 
     <!-- browser -->
