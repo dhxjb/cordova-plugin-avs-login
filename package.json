@@ -1,0 +1,13 @@
+{
+    "name": "cordova-plugin-avs-login",
+    "version": "1.0.0",
+    "cordova": {
+      "id": "cordova-plugin-avs-login",
+      "platforms": [
+        "android",
+        "browser",
+        "ios"
+      ]
+    },
+    "description": "A Cordova Plugin for AVS Login"
+  }
